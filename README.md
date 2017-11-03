@@ -1,4 +1,4 @@
-# The-Dragons-Bane
+# The Dragons Bane
 A really basic text-based game, played on you commandprompt.
 
 "As soon as you leave the gates of your city you are attacked by monsters. 
