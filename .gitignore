@@ -1,0 +1,7 @@
+/shelf/
+/.idea/
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+*.exe
+/cmake-build-debug/
